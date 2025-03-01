@@ -1,4 +1,4 @@
-# Ukrainian-Gate
+# Ukrainian;Gate
 ## English
 
 Ukrainian Translation for Steins;Gate Steam Version. Based on [Comittee of Zero's Steins;Gate patch](https://github.com/CommitteeOfZero/sghd-patch/releases).
