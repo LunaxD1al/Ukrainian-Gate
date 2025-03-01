@@ -11,6 +11,7 @@ Currently, only prologue is translated, but I will finish this translation for s
 
 ### Thanks:
 Very thankful to @Dextinfire from Committee of Zero's Discord server. Without his help, I wouldn't have been able even to start translating.
+
 Also, a low bow to the translation testers:
 1. Dikover
 2. Mrstasonik
@@ -30,6 +31,7 @@ Also, a low bow to the translation testers:
 
 ### Подяки:
 Превелике дякую @Dextinfire з Discord серверу Committee of Zero. Без його допомоги, я б не зміг навіть почати переклад.
+
 Також, низький поклон тестувальникам перекладу:
 1. Dikover
 2. Mrstasonik
