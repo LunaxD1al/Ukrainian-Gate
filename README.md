@@ -17,7 +17,7 @@ Also, a low bow to the translation testers:
 2. Mrstasonik
 3. NickniteIL
 
-For all people who want to help with translation, or if you encountered a problem or found a mistake in the translation - **my Discord: lunadial_7279** 
+For all people who want to help with translation, or if you encountered a problem or found a mistake in the translation - **my Discord: lunadial_7279**.
 You can also post about problems on github.
 
 ## Українська
@@ -39,5 +39,5 @@ You can also post about problems on github.
 2. Mrstasonik
 3. NickniteIL
 
-Для усіх людей, які хочуть допомогти з перекладом, або якщо у Вас якісь проблеми з перекладом, чи Ви знайшли помилку в перекладі - **мій Discord: lunadial_7279** 
+Для усіх людей, які хочуть допомогти з перекладом, або якщо у Вас якісь проблеми з перекладом, чи Ви знайшли помилку в перекладі - **мій Discord: lunadial_7279**.
 Ви також можете зробити пост з вашою проблемою на github.
