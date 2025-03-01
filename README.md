@@ -24,11 +24,11 @@ Very thankful to @Dextinfire from Committee of Zero's Discord server. Without hi
 Also, a low bow to the translation testers:
 1. Dikover
 2. Mrstasonik
-3. Nicknite
+3. NickniteIL
 
 Подяки:
 Превелике дякую @Dextinfire з Discord серверу Committee of Zero. Без його допомоги, я б не зміг навіть почати переклад.
 Також, низький поклон тестувальникам перекладу:
 1. Dikover
 2. Mrstasonik
-3. Nicknite
+3. NickniteIL
