@@ -7,7 +7,7 @@ Currently, only prologue is translated, but I will finish this translation for s
 ### To install:
 1. Download and install [Comittee of Zero's Steins;Gate patch](https://github.com/CommitteeOfZero/sghd-patch/releases)
 2. Download latest release of [Ukrainian translation](https://github.com/LunaxD1al/Ukrainian-Gate/releases) 
-3. Unpack archive to Steins;Gate directory (SteamLibrary/steamapps/common/STEINS;GATE), replace files if asked.
+3. Extract archive in Steins;Gate directory (SteamLibrary/steamapps/common/STEINS;GATE), replace files if asked.
 
 ### Thanks:
 Very thankful to @Dextinfire from Committee of Zero's Discord server. Without his help, I wouldn't have been able even to start translating.
