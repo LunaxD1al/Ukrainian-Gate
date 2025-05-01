@@ -4,8 +4,8 @@
 Українська локалізація Steam версії Брами;Штейна. Зроблено на основі [патчу Committee of Zero для Брами;Штейну](https://github.com/CommitteeOfZero/sghd-patch/releases).
 
 ### Щоб встановити:
-1. Завантажити та встановити [патч Committee of Zero для Брами;Штейну](https://github.com/CommitteeOfZero/sghd-patch/releases)
-2. Завантажити останній реліз [українського перекладу](https://github.com/LunaxD1al/Ukrainian-Gate/releases) 
+1. Завантажити та встановити [патч Committee of Zero для Брами;Штейну](https://github.com/CommitteeOfZero/sghd-patch/releases).
+2. Завантажити останній реліз [українського перекладу](https://github.com/LunaxD1al/Ukrainian-Gate/releases).
 3. Розпакувати архів в директорії Брами;Штейну (SteamLibrary/steamapps/common/STEINS;GATE), замінити файли.
 
 
@@ -21,15 +21,15 @@
 Ви також можете зробити пост з вашою проблемою на github.
 
 ### Використані програми:
-[sc3tools](https://github.com/CommitteeOfZero/sc3tools), [mgsfontgen-dx](https://github.com/CommitteeOfZero/mgsfontgen-dx), [magespack](https://github.com/DanOl98/MagesPack), [aegisub](https://github.com/arch1t3cht/Aegisub)
+[sc3tools](https://github.com/CommitteeOfZero/sc3tools), [mgsfontgen-dx](https://github.com/CommitteeOfZero/mgsfontgen-dx), [magespack](https://github.com/DanOl98/MagesPack), [aegisub](https://github.com/arch1t3cht/Aegisub).
 
 ## English
 
 Ukrainian Localisation for Steins;Gate Steam Version. Based on [Comittee of Zero's Steins;Gate patch](https://github.com/CommitteeOfZero/sghd-patch/releases).
 
 ### To install:
-1. Download and install [Comittee of Zero's Steins;Gate patch](https://github.com/CommitteeOfZero/sghd-patch/releases)
-2. Download latest release of [Ukrainian translation](https://github.com/LunaxD1al/Ukrainian-Gate/releases) 
+1. Download and install [Comittee of Zero's Steins;Gate patch](https://github.com/CommitteeOfZero/sghd-patch/releases).
+2. Download latest release of [Ukrainian translation](https://github.com/LunaxD1al/Ukrainian-Gate/releases).
 3. Extract archive in Steins;Gate directory (SteamLibrary/steamapps/common/STEINS;GATE), replace files.
 
 ### Thanks:
