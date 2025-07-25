@@ -25,7 +25,7 @@
 
 ## English
 
-Ukrainian Localisation for Steins;Gate Steam Version. Based on [Comittee of Zero's Steins;Gate patch](https://github.com/CommitteeOfZero/sghd-patch/releases).
+Ukrainian Localization for Steins;Gate Steam Version. Based on [Comittee of Zero's Steins;Gate patch](https://github.com/CommitteeOfZero/sghd-patch/releases).
 
 ### To install:
 1. Download and install [Comittee of Zero's Steins;Gate patch](https://github.com/CommitteeOfZero/sghd-patch/releases).
