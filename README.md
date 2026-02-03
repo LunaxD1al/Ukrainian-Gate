@@ -16,6 +16,7 @@
 1. Dikover
 2. Mrstasonik
 3. NickniteIL
+4. Anesia
 
 Для усіх людей, які хочуть допомогти з перекладом, або якщо у вас якісь технічні проблеми, чи ви знайшли помилку - **мій Discord: lunadial_7279**.
 Ви також можете зробити пост з вашою проблемою на github.
@@ -39,6 +40,7 @@ Also, a low bow to the translation testers:
 1. Dikover
 2. Mrstasonik
 3. NickniteIL
+4. Anesia
 
 For all people who want to help with translation, or if you encounter a problem or found a mistake - **my Discord: lunadial_7279**.
 You can also post about problems on github.
